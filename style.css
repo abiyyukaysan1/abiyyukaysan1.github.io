@@ -1,8 +1,4 @@
-/* slide: s3-text · indicator 4 · end state */
-/* Little Lemon — style.css
-   Built in class order. Each block is added on one deck section. */
 
-/* ===== 1. A first rule: element selectors (§2) ===== */
 
 body {
   font-family: "Helvetica Neue", Arial, sans-serif;
@@ -18,7 +14,7 @@ h2 {
   color: #064E4F;
 }
 
-/* ===== 2. Selectors: id, class, descendant, child, :hover (§2) ===== */
+
 
 #site-name {
   font-size: 32px;
@@ -53,7 +49,6 @@ a.current {
   font-weight: bold;
 }
 
-/* ===== 3. Colour and text (§3) ===== */
 
 h1 {
   font-size: 40px;
